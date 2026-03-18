@@ -7,21 +7,22 @@
 
 ---
 
-# Dependencies 📦
+# Dependencies
 
 - <a href="https://www.glfw.org/"><img src="https://www.glfw.org/img/favicon/favicon-196x196.png" width=30 align="center"/> **GLFW**</a>
 - <a href="https://github.com/g-truc/glm"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/GLM_logo.png" align="center" width=50/> **GLM**</a>
 - <a href="https://github.com/nothings/stb">**STB**</a>
+- <a href="https://glad.dav1d.de/"> **GLAD**</a>
 
-# How To Use 🧠
+# How To Use
 
-- Create a repo from this template 🪧
-- Clone the repo on your machine 🖨️
+- Create a repo from this template
+- Clone the repo on your machine
 ```sh
 git clone [repo-url]
 ```
-- Download dependencies (execute setup <img src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow_lg.png" align="center" width=25/> script)
-- Build the project using <a href="https://cmake.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/2048px-Cmake.svg.png" width=25 align="center"/>:
+- Download dependencies (execute setup script)
+- Build the project with <a href="https://cmake.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/2048px-Cmake.svg.png" width=25 align="center"/> cmake:
   
   ```sh
   mkdir build
