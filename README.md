@@ -12,7 +12,6 @@
 - <a href="https://www.glfw.org/"><img src="https://www.glfw.org/img/favicon/favicon-196x196.png" width=30 align="center"/> **GLFW**</a>
 - <a href="https://github.com/g-truc/glm"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/GLM_logo.png" align="center" width=50/> **GLM**</a>
 - <a href="https://github.com/nothings/stb">**STB**</a>
-- <a href="https://glad.dav1d.de/"> **GLAD**</a>
 
 # How To Use
 
